@@ -1,0 +1,33 @@
+.infobox {
+
+    border: 1px solid #a2a9b1;
+    float: none;
+    width: 50%;
+    padding:1px;
+    border-collapse: collapse;
+    
+}
+
+.infobox img{
+    
+   
+    width: 30%;
+    display: block;
+    margin: 10px auto;
+  
+    
+}
+
+.infobox th {
+
+    
+    padding: 10px;
+    background-color: #a2a9b1;
+}
+
+.infobox td {
+
+    padding: 5px;
+    border-top: 1px solid #a2a9b1;
+    float: none;
+}
