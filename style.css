@@ -28,6 +28,7 @@
     padding: 10px;
     background-color: #a2a9b1;
     text-align: center;
+    white-space: nowrap;
     
 }
 
@@ -47,6 +48,7 @@ details {
 
     border: 1px solid #a2a9b1;
     width: 20%;
+    white-space: nowrap;
     
 
 }
@@ -78,5 +80,5 @@ details summary {
   border-top: 1px solid #a2a9b1;
   border-right: 1px solid #a2a9b1;
   text-align: center;
-  width: 1%;
+  white-space: nowrap;
 }
